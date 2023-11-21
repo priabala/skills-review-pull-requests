@@ -20,7 +20,10 @@ _Collaborate and work together on GitHub._
 
 ## Finish
 
+update-game
+_Almost there! Yaya!! :heart:_
 _Congratulations friend, you've completed this course!_
+main
 
 <img src=https://octodex.github.com/images/hula_loop_octodex03.gif alt=celebrate width=300 align=right>
 
