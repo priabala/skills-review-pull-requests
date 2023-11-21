@@ -20,7 +20,7 @@ _Collaborate and work together on GitHub._
 
 ## Finish
 
-_Almost there! Yay! :heart:_
+_Almost there! Tada! :heart:_
 _Congratulations friend, you've completed this course!_
 
 
